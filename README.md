@@ -31,7 +31,7 @@ If you are in no mood to install VB6 I understand. There is an installer [under 
 ## What do I need?
 
 You need a HTTPS to HTTP proxy, one that preferably also converts UTF-8 to Windows encoding. I use [WebOne](https://github.com/atauenis/webone) for this. 
-As this project sends your persona token, always host the proxy yourself.
+As this project sends your personal token, always host the proxy yourself.
 
 Once you set the proxy as your system proxy in Internet Explorer it will work. Press the "refresh" button to log in to your mastodon instance.
 
