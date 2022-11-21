@@ -1,6 +1,6 @@
 # Mastodon 3.11 For Workgroups
 
-This project is a Mastodon client written in Visual Basic 6. It works on Windows 95 and higher (Windows 10/11 untested). 
+This project is a Mastodon client written in Visual Basic 6. It works on Windows 95 and higher (Windows 10/11 ~~untested~~ [confirmed to work](https://mastodon.lol/@autistic_enby/109378329066875960) but... why?). 
 
 This project is in very early stages!! Use at own risk. Contributions very welcome! (If you can not use Git email me for an address to mail your patched on floppy disk to).
 
