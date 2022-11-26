@@ -39,3 +39,7 @@ Once you set the proxy as your system proxy in Internet Explorer it will work. P
 
 - [Reading posts](https://blahaj.social/@maartje/109372878061833398)
 - [Posting a toot](https://blahaj.social/@maartje/109376527177239374)
+
+## Why the name?
+
+In need of a good name I got reminded of [this joke](https://mastodon.technology/@rysiek/108341299588619079) which relied on the fact that Mastodon v3.x is a thing.
